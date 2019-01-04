@@ -232,6 +232,21 @@ eventbrite:        # optional: alphanumeric key for Eventbrite registration, e.g
 </p>
 {% endif %}
 
+<p>
+  We will use <a href="https://b.socrative.com/login/student/" target="_blank">socrative</a> for assessing understanding. Room name: <b>UCSFR</b>.
+</p>
+<hr/>
+
+<p id="data">
+<strong>Data:</strong>
+  <br/>
+  Here are links to the data we will be using for the workshop.
+  <ul>
+    <li>Day 1 Unix Shell Data: <a href="http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip" download>shell-novice-data.zip</a></li>
+    <li>Day 1/Day 2 R Data: <a href="https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv" download>Gapminder Dataset</a></li> (right mouse click -> “Save As/Save Link As”, or left mouse click -> File menu -> “Save Page As”)
+  </ul>
+</p>
+
 <hr/>
 
 {% comment %}
